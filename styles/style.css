@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Quicksand:wght@400;700&display=swap');
+* {box-sizing: border-box;}
+
+.header {
+    background-color: #2e2f30;
+    overflow: hidden;
+}
+
+.nickname {
+    padding: 15px 10px;
+    text-align: center;
+    float: left;
+    font-size: 28px;
+    font-weight: 800;
+    line-height: 10px;
+}
+
+.buttons {
+    float: right;
+    text-align: center;
+}
+
+.buttons a {
+    padding: 10px;
+    float: right;
+    border-style: hidden;
+    border-width: 15px;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.buttons a:hover {
+    background-color: #ffffff;
+    color: #2e2f30;
+}
+
+.link {
+    text-decoration: none;
+    color: #a8a8a8;
+}
+
+.link:hover {
+    color: #707070;
+}
+
+.discription {
+    margin-left: 15%;
+    margin-top: 5%;
+    font-size: 18px;
+}
+
+.discription p {
+    margin-left: 320px;
+    margin-right: 100px;
+}
+
+.characteristics {
+    font-weight: 600;
+}
+
+.name {
+    font-size: 25px;
+    font-weight: 800;
+    padding-left: 20px;
+}
+
+.discription img {
+    border-radius: 10%;
+    float: left;
+}
+
+body {
+    font-family: 'Quicksand';
+    margin: 0px;
+    background-color: #1d1d1e;
+    color: #ffffff;
+}
+

@@ -1,7 +1,7 @@
-var button = document.getElementById('discord_btn');
+var button = document.getElementById('discordBtn');
 
 button.addEventListener("mouseover", function(){
-    button.textContent = "Nerovik#6528";
+    button.textContent = "Brizgalka#6528";
 });
 
 button.addEventListener("mouseout", function(){
